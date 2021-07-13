@@ -1,4 +1,4 @@
-# DFS (Depth First Search) example 01
+# DFS (Depth First Search) example
 
 def dfs(graph, start_node, visited):
 
